@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # FactorialClem
+=======
+# FactorialYax
+>>>>>>> origin/master
 =======
 # FactorialYax
 >>>>>>> origin/master
